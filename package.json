@@ -1,0 +1,28 @@
+{
+  "name": "laravel-elixir-phpdox",
+  "version": "0.1.0",
+  "description": "Laravel Elixir wrapper around PHPDox Gulp task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir",
+    "phpdox"
+  ],
+  "author": "Nathan Macnamara",
+  "license": "MIT",
+  "homepage": "https://github.com/nathanmac/laravel-elixir-phpdox",
+  "bugs": "https://github.com/nathanmac/laravel-elixir-phpdox/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanmac/laravel-elixir-phpdox"
+  },
+  "dependencies": {
+    "gulp-phpdox": "^0.1.0",
+    "gulp-notify": "^2.0.0",
+    "underscore": "^1.7.0"
+  }
+}
